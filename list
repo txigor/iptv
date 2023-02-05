@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="medium"
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title=" Canais | Variedades",A&E FHD
 http://splaytv.io:80/Marcelo984258235/hbgy45df/139100
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E FHD [Alt]" tvg-logo="https://i.imgur.com/5qRlDmW.png" group-title=" Canais | Variedades",A&E FHD [Alt]
