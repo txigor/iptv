@@ -1,0 +1,5 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISC CHANNEL 4K H265" tvg-logo="http://www.rochagalaxia.live/logos/DISCOVERY%20CHANNE.png" group-title="Canais: UHD 4K",DISC CHANNEL 4K H265
+http://zeusplay.life:80/7106277000/2012151931/285563
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISC HOME & HEALTH 4K H265" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Canais: UHD 4K",DISC HOME & HEALTH 4K H265
+http://zeusplay.life:80/7106277000/2012151931/285564
