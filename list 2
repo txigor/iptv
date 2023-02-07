@@ -1,4 +1,6 @@
 #EXTM3U size="medium"
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISC HOME & HEALTH 4K H265" tvg-logo="https://www.rochagalaxia.live/logos/DISCOVERYHeH.jpg" group-title="Canais: UHD 4K",DISC HOME & HEALTH 4K H265
+http://zeusplay.life:80/7106277000/2012151931/285564
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H 4K FHDR" tvg-logo="https://www.liebeurl.me/logos/discoveryh&h.png" group-title="Canais | 4K [FHDR]",Discovery H&H 4K FHDR
 http://lxls.mx:80/euclidescabral/998934917/115914
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="Discovery H&H FHD" tvg-logo="http://lxls.mx:80/images/322d5c6230ba0a1a63a2d3bda8a9aed0.png" group-title="Canais | Documentários",Discovery H&H FHD
