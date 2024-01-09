@@ -34,3 +34,57 @@ http://kplay.red:80/789521/789521/961691.m3u8
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 10" tvg-logo="https://i.ibb.co/
 8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 10
 http://kplay.red:80/789521/789521/961692.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD"
+tvg-logo="http://i.ibb.co/On4fNZY/HeH.png" group-
+title="Variedades", Discovery Home & Health SD
+http://kplay.red:80/789521/789521/1059.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD"
+tvg-logo="http://i.ibb.co/On4fNZY/HeH.png" group-
+title="Variedades", Discovery Home & Health HD
+http://kplay.red:80/789521/789521/1061.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD2"
+tvg-logo="http://i.ibb.co/On4fNZY/HeH.png" group-
+title="Variedades", Discovery Home & Health HD²
+http://kplay.red:80/789521/789521/900603.m3u8
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health FHD"
+tvg-logo="http://i.ibb.co/On4fNZY/HeH.png" group-
+title="Variedades", Discovery Home & Health FHD
+http://kplay.red:80/789521/789521/1060.m3u8
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science SD"
+tvg-logo="http://i.ibb.co/P1K9V9S/DScience.png" group-
+title="Documentários", Discovery Science SD
+http://kplay.red:80/789521/789521/1052.m3u8
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science HD"
+tvg-logo="http://i.ibb.co/P1K9V9S/DScience.png" group-
+title="Documentários", Discovery Science HD
+http://kplay.red:80/789521/789521/1053.m3u8
+#EXTINF:-1 tvg-id="Discovery Science.br" tvg-name="Discovery Science HD²2"
+tvg-logo="http://i.ibb.co/P1K9V9S/DScience.png" group-
+title="Documentários",Discovery Science HD²
+http://kplay.red:80/789521/789521/900610.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Science FHD" tvg-
+logo="http://i.ibb.co/P1K9V9S/DScience.png" group-
+title="Documentários",Discovery Science FHD
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home e Health 4K"
+tvg-logo="http://i.ibb.co/On4fNZY/HeH.png" group-title="Alta Resolução
+4k", Discovery Home e Health 4K
+http://kplay.red:80/789521/789521/93816.m3u8
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel 4K" tvg-
+logo="http://i.ibb.co/G7sCY3D/Discovery-Channel.png" group-title="Alta
+Resolução 4k", Discovery Channel 4K
+http://kplay.red:80/789521/789521/93817.m3u8
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central 4K" tvg-
+logo="http://i.ibb.co/Z1Jj1wg/Comedy-Central.png" group-title="Alta
+Resolução 4k", Comedy Central 4K
+http://kplay.red:80/789521/789521/93818.m3u8
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate 4K" tvg-logo="http://
+img-logo.ams3.cdn.digitaloceanspaces.com/TVS/Esportes/combate.png"
+group-title="Alta Resolução 4k",Combate 4K
+http://kplay.red:80/789521/789521/93819.m3u8
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN Brasil 4K" tvg-logo="http://
+i.ibb.co/GSFMKFS/CNN2-1.png" group-title="Alta Resolução 4k", CNN Brasil 4K
+http://kplay.red:80/789521/789521/93820.m3u8
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-
+logo="http://img-logo.ams3.cdn.digital oceanspaces.com/TVS/Infantil/
+Cartoon%20Network.png.png" group-title="Alta Resolução 4k", Cartoon
+Network 4K
