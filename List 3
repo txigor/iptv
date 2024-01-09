@@ -1,128 +1,64 @@
 #EXTM3U size="medium"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB HD 1" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"
-group-title="CANAIS |
-REALITY",BBB HD 1
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB HD 1" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB HD 1
 http://conexaoonline.top:80/166277186922356/925087/354566
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 1 HD2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB 1 HD²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 1 HD2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB 1 HD²
 http://conexaoonline.top:80/166277186922356/925087/354611
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 1 FHD2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB 1 FHD²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 1 FHD2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB 1 FHD²
 http://conexaoonline.top:80/166277186922356/925087/354610
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB HD 2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"
-group-title="CANAIS |
-REALITY",BBB HD 2
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB HD 2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB HD 2
 http://conexaoonline.top:80/166277186922356/925087/354567
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 2 HD2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_II_h3_ab.png" group-title="CANAIS |
-REALITY",BBB 2 HD²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 2 HD2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_II_h3_ab.png" group-title="CANAIS |REALITY",BBB 2 HD²
 http://conexaoonline.top:80/166277186922356/925087/354613
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 2 FHD2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB 2 FHD²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 2 FHD2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB 2 FHD²
 http://conexaoonline.top:80/166277186922356/925087/354612
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB MOSAICO FHD2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB MOSAICO FHD²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB MOSAICO FHD2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB MOSAICO FHD²
 http://conexaoonline.top:80/166277186922356/925087/354614
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB MOSAICO HD2" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB MOSAICO HD²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB MOSAICO HD2" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB MOSAICO HD²
 http://conexaoonline.top:80/166277186922356/925087/354615
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 1 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 1 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 1 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 1 FINAL
 http://conexaoonline.top:80/166277186922356/925.087/.354581
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 12" tvg-logo="http://
-group-title="CANAIS |
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"
-REALITY",BBB CAM 1²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 12" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB CAM 1²
 http://conexaoonline.top:80/166277186922356/925087/354599
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 2 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 2 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 2 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 2 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354582
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 22" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 2²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 22" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 2²
 http://conexaoonline.top:80/166277186922356/925087/354600
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 3 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 3 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 3 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 3 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354583
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 32" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB CAM 3²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 32" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB CAM 3²
 http://conexaoonline.top:80/166277186922356/925087/354601
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 4 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 4 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 4 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 4 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354584
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 42" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"
-group-title="CANAIS |
-REALITY",BBB CAM 4²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 42" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"group-title="CANAIS |REALITY",BBB CAM 4²
 http://conexaoonline.top:80/166277186922356/925087/354602
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 5 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 5 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 5 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 5 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354585
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 52" tvg-logo="http://
-group-title="CANAIS |
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"
-REALITY",BBB CAM 5²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 52" tvg-logo="http://group-title="CANAIS |fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"REALITY",BBB CAM 5²
 http://conexaoonline.top:80/166277186922356/925087/354603
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 6 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 6 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 6 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 6 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354586
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 62" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_II_h3_ab.png" group-title="CANAIS|
-REALITY",BBB CAM 6²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 62" tvg-logo="http://fanc.tmsimg.com/assets/s77804_II_h3_ab.png" group-title="CANAIS|REALITY",BBB CAM 6²
 http://conexaoonline.top:80/166277186922356/925087/354604
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 7 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 7 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 7 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 7 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354587
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 72" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB CAM 7²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 72" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB CAM 7²
 http://conexaoonline.top:80/166277186922356/925087/354605
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 8 FINAL" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY", BBB CAM 8 FINAL
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 8 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY", BBB CAM 8 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354588
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 82" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB CAM 8²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 82" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB CAM 8²
 http://conexaoonline.top:80/166277186922356/925087/354606
-#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 9 FINAL" tvg-logo="" group-
-title="CANAIS | REALITY",BBB CAM 9 FINAL
+#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 9 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS | REALITY",BBB CAM 9 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354589
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 92" tvg-logo="http://
-group-title="CANAIS |
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"
-REALITY",BBB CAM 9²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 92" tvg-logo="http://group-title="CANAIS |fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"REALITY",BBB CAM 9²
 http://conexaoonline.top:80/166277186922356/925087/354607
-#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 10 FINAL" tvg-logo=""
-group-title="CANAIS | REALITY",BBB CAM 10 FINAL
+#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 10 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"group-title="CANAIS | REALITY",BBB CAM 10 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354590
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 102" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB CAM 10²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 102" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB CAM 10²
 http://conexaoonline.top:80/166277186922356/925087/354608
-#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 11 FINAL" tvg-logo=""
-group-title="CANAIS | REALITY", BBB CAM 11 FINAL
+#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 11 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"group-title="CANAIS | REALITY", BBB CAM 11 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354591
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 112" tvg-logo="http://
-fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |
-REALITY",BBB CAM 11²
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB CAM 112" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png" group-title="CANAIS |REALITY",BBB CAM 11²
 http://conexaoonline.top:80/166277186922356/925087/354609
-#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 12 FINAL" tvg-logo=""
-group-title="CANAIS | REALITY",BBB CAM 12 FINAL
+#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB CAM 12 FINAL" tvg-logo="http://fanc.tmsimg.com/assets/s77804_Il_h3_ab.png"group-title="CANAIS | REALITY",BBB CAM 12 FINAL
 http://conexaoonline.top:80/166277186922356/925087/354592
