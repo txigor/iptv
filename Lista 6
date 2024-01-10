@@ -1,32 +1,39 @@
 #EXTM3U size="medium"
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 2024 AQUECIMENTO" tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB2024 AQUECIMENTO
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94364
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 01" tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 01
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94553
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 02" tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 02
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94554
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB CAM 03" tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 03
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94555
-#EXTINF:-1 tvg-id="BBB" tvg-name="BBB CAM 04" tvg-logo="https://i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 04
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94556
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 2024 AQUECIMENTO" tvg-
+logo="https://i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB
+2024 AQUECIMENTO
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94364
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 01" tvg-logo="https://
+i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 01
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94553
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB CAM 02" tvg-logo="https://
+i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 02
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94554
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 03" tvg-logo="https://i.imgur.com/
+F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 03
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94555
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 04" tvg-logo="https://i.imgur.com/
+F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 04
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94556
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 05" tvg-logo="https://i.imgur.com/
 F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 05
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94557
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94557
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 06" tvg-logo="https://i.imgur.com/
 F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 06
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94558
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94558
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 07" tvg-logo="https://i.imgur.com/
 F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 07
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94559
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94559
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 08" tvg-logo="https://i.imgur.com/
 F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 08
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94560
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94560
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 09" tvg-logo="https://i.imgur.com/
 F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 09
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94561
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94561
 #EXTINF:-1 tvg-id="Agromais.br" tvg-name="BBB CAM 10" tvg-logo="https://
 i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB CAM 10
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94562
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94562
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB MOSAICO " tvg-logo="https://
-i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024", BBB MOSAICO
-http://blacktv.syscdn.xyz:80/Janete3292/Matrix3292/94564
+i.imgur.com/F4Tai6f.png" group-title="CANAIS | BBB 2024",BBB MOSAICO
+http://blacktv.syscdn.xyz:80/wyb1qkjo/mx651ukt/94564
+(2000
