@@ -1,13 +1,7 @@
 #EXTM3U size="medium"
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 01" tvg-logo="https://
-lh3.googleusercontent.com/-TbxLOKOfUIE/X_eQkl3c9el/AAAAAAAAlwM/
-7h8pUSACT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-
-title="BBB 2024",BBB 01
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 01" tvg-logo="https://lh3.googleusercontent.com/-TbxLOKOfUIE/X_eQkl3c9el/AAAAAAAAlwM/7h8pUSACT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",BBB 01
 http://t2tp.xyz:80/25355048621/00463634103/62319
-#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 02" tvg-logo="https://
-Ih3.googleusercontent.com/-TbxLOKOfUIE/X_eQkl3c9el/AAAAAAAAIWM/
-7h8pUSACT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-
-title="BBB 2024",BBB 02
+#EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 02" tvg-logo="https://Ih3.googleusercontent.com/-TbxLOKOfUIE/X_eQkl3c9el/AAAAAAAAIWM/7h8pUSACT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="BBB 2024",BBB 02
 http://t2tp.xyz:80/25355048621/00463634103/64038
 #EXTINF:-1 tvg-id="BIGBRO" tvg-name="BBB 03" tvg-logo="https://
 Ih3.googleusercontent.com/-TbxLOKOfUIE/X_eQkl3c9el/AAAAAAAAIWM/
