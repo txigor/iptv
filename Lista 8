@@ -1,0 +1,21 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 01" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 01
+http://kplay.red:80/4891703/7318938/961682.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 02" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 02
+http://kplay.red:80/4891703/7318938/961683.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 03" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 03
+http://kplay.red:80/4891703/7318938/961684.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 04" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 04
+http://kplay.red:80/4891703/7318938/961685.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 05" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 05
+http://kplay.red:80/4891703/7318938/961686.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 06" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 06
+http://kplay.red:80/4891703/7318938/961687.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 07" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 07
+http://kplay.red:80/4891703/7318938/961688.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 08" tvg-logo="https://i.ibb.co/8dHcOWn/Design-sem-nome.png" group-title="BBB 24",BBB 08
+http://kplay.red:80/4891703/7318938/961690.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 09" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 09
+http://kplay.red:80/4891703/7318938/961691.ts
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 10" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png" group-title="BBB 24",BBB 10
+http://kplay.red:80/4891703/7318938/961692.ts
