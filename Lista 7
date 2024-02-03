@@ -15,7 +15,7 @@ http://oneplaytv.red:80/Antonio/12345678/961686.ts
 http://oneplaytv.red:80/Antonio/12345678/961685.ts
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB Quarto Fada HD" tvg-logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png"24", BBB Quarto Fada HD
 http://oneplaytv.red:80/Antonio/12345678/961684.ts
-#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB Quarto Fada FHD" tvg-group-title="BBBlogo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png"24",BBB Quarto Fada FHD
+#EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB Quarto Fada FHD" https://i.ibb.co/8dHc0Wn/Design-sem-nome.png"24",BBB Quarto Fada FHD
 http://oneplaytv.red:80/Antonio/12345678/961683.ts
 logo="https://i.ibb.co/8dHc0Wn/Design-sem-nome.png"
 24",BBB Quarto Gnomo SD
